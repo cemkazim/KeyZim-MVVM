@@ -8,7 +8,7 @@
 //  KeyZim-MVVM
 //
 
-import UIKit
+import Foundation
 
 protocol ___VARIABLE_moduleName___ViewModelDelegate: class {
 }
