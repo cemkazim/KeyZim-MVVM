@@ -25,12 +25,12 @@ The architecture you want will be added to your project.
 
 View Controller:
 
-<img src="https://i.ibb.co/KxGdnxJ/vc.png">
+<img src="https://i.ibb.co/KxGdnxJ/vc.png" width="700" height="430">
 
 View Model:
 
-<img src="https://i.ibb.co/9Y9z2tJ/vm.png">
+<img src="https://i.ibb.co/9Y9z2tJ/vm.png" width="699" height="518">
 
 Model:
 
-<img src="https://i.ibb.co/Btv8FtJ/m.png">
+<img src="https://i.ibb.co/Btv8FtJ/m.png" width="625" height="406">
