@@ -25,7 +25,7 @@ The architecture you want will be added to your project.
 
 View Controller:
 
-<img src="https://i.ibb.co/KDD3706/vc.png">
+<img src="https://i.ibb.co/KxGdnxJ/vc.png">
 
 View Model:
 
