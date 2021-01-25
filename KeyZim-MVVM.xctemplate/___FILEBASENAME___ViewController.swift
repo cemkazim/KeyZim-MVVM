@@ -10,7 +10,7 @@
 
 import UIKit
 
-class ___VARIABLE_moduleName___ViewController {
+class ___VARIABLE_moduleName___ViewController: UIViewController {
     
     // MARK: - Properties -
     
